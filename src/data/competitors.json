@@ -992,3 +992,59 @@
         "average": 999
     },
     {
+        "name": "Stoil Kalev",
+        "personId": "2013KALE01",
+        "country": "Bulgaria",
+        "comments": "Bulgaria - Sofia",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Teodor Nicolae Procopiu",
+        "personId": "",
+        "country": "Romania",
+        "comments": "Romania - Bucharest",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Tihomir Dulev",
+        "personId": "2015DULE03",
+        "country": "Bulgaria",
+        "comments": "Bulgaria - Sofia",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Valerio Colapinto",
+        "personId": "2019COLA01",
+        "country": "Italy",
+        "comments": "Italy - Monterotondo",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Valerio Raimondi Vallesi",
+        "personId": "2019VALL10",
+        "country": "Italy",
+        "comments": "Italy - Monterotondo",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Vlad Laz\u0103r",
+        "personId": "",
+        "country": "Romania",
+        "comments": "Romania - Bucharest",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Vladislav Sergunov",
+        "personId": "2019SERG03",
+        "country": "Russia",
+        "comments": "Russia - Moscow",
+        "single": 999,
+        "average": 999
+    }
+]
