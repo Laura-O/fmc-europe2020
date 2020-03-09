@@ -172,10 +172,10 @@
     "lng": "12.5937023",
     "country": "Italy",
     "city": "Monterotondo",
-    "address": "Circolo bocciofilo Monterotondo scalo, Via Aldo Moro 1",
+    "address": "Private address",
     "delegate": "Gianluca Placenti",
-    "fee": "5 EUR",
-    "info": "max. 30 competitors",
+    "fee": "",
+    "info": "max. 10 competitors",
     "timezone": "UTC+1",
     "fullname": "Italy - Monterotondo"
   },
