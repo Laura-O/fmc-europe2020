@@ -156,30 +156,6 @@
     "fullname": "Israel - Jerusalem"
   },
   {
-    "lat": "45.479632",
-    "lng": "9.226585",
-    "country": "Italy",
-    "city": "Milano",
-    "address": "Via Ampère 2, Milano",
-    "delegate": "Lorenzo Vigani Poli",
-    "fee": "5 EUR",
-    "info": "",
-    "timezone": "UTC+1",
-    "fullname": "Italy - Milano"
-  },
-  {
-    "lat": "42.0650368",
-    "lng": "12.5937023",
-    "country": "Italy",
-    "city": "Monterotondo",
-    "address": "Private address",
-    "delegate": "Gianluca Placenti",
-    "fee": "",
-    "info": "max. 10 competitors",
-    "timezone": "UTC+1",
-    "fullname": "Italy - Monterotondo"
-  },
-  {
     "lat": "57.1519400",
     "lng": "24.8647200",
     "country": "Latvia",
