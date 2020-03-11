@@ -12,18 +12,6 @@
     "fullname": "Belarus - Minsk"
   },
   {
-    "lat": "42.655523",
-    "lng": "23.354149",
-    "country": "Bulgaria",
-    "city": "Sofia",
-    "address": "Technical University of Sofia, Campus 4, room 4244; 1 Rosario Str.",
-    "delegate": "Borislav Marchovski",
-    "fee": "0",
-    "info": "max. 40 competitors",
-    "timezone": "UTC+2",
-    "fullname": "Bulgaria - Sofia"
-  },
-  {
     "lat": "45.556203",
     "lng": "18.694063",
     "country": "Croatia",
