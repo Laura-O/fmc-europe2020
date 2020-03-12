@@ -24,18 +24,6 @@
     "fullname": "Croatia - Osijek"
   },
   {
-    "lat": "55.682527",
-    "lng": "12.554219",
-    "country": "Denmark",
-    "city": "Frederiksberg",
-    "address": "Julius Thomsens Gade 5, 1974 Frederiksberg",
-    "delegate": "Daniel Vædele Egdal & Henrik Buus Aagaard",
-    "fee": "10 DKK",
-    "info": "max. 40 competitors",
-    "timezone": "UTC+1",
-    "fullname": "Denmark - Frederiksberg"
-  },
-  {
     "lat": "48.241148",
     "lng": "11.457615",
     "country": "Germany",
@@ -154,18 +142,6 @@
     "info": "max. 12 competitors",
     "timezone": "UTC+1",
     "fullname": "Netherlands - Zeewolde"
-  },
-  {
-    "lat": "42.0020912",
-    "lng": "21.4588053",
-    "country": "North Macedonia",
-    "city": "Skopje",
-    "address": "Hans Em Faculty of Forest Sciences, Landscape Architecture and Environmental Engineering",
-    "delegate": "Aleksandar Arsovski",
-    "fee": "0",
-    "info": "max. 20 competitors",
-    "timezone": "UTC+1",
-    "fullname": "North Macedonia - Skopje"
   },
   {
     "lat": "63.416369",
