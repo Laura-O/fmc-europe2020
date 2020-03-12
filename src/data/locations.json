@@ -96,18 +96,6 @@
     "fullname": "France - Lyon"
   },
   {
-    "lat": "51.892680",
-    "lng": "-8.491947",
-    "country": "Ireland",
-    "city": "Cork",
-    "address": "Boole 6, University College Cork, College Road, Cork",
-    "delegate": "Mary Hennessy",
-    "fee": "2 EUR",
-    "info": "",
-    "timezone": "UTC",
-    "fullname": "Ireland - Cork"
-  },
-  {
     "lat": "31.792787",
     "lng": "35.244419",
     "country": "Israel",
