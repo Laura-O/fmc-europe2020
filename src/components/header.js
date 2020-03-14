@@ -177,12 +177,12 @@ class Header extends Component {
           <NavItem>
             <Link to="/#FAQSection">FAQ</Link>
           </NavItem>
-          <NavItem>
+          {/* <NavItem>
             <Link to="/locations">Locations</Link>
           </NavItem>
           <NavItem>
             <Link to="/competitors">Competitors</Link>
-          </NavItem>
+          </NavItem> */}
         </NavList>
       </Nav>
     )

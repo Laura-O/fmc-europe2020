@@ -8,15 +8,17 @@ import About from '../components/About'
 import Welcome from '../components/Welcome'
 import Schedule from '../components/Schedule'
 import News from '../components/News'
+import Announcement from '../components/Announcement'
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <Welcome />
-    <OverviewMap markers={data.allLocationsJson.edges} />
-    <Countdown date="2020-03-22T11:00:00" />
-    <News newsEntries={data.allNewsJson.edges} />
+    {/* <Welcome /> */}
+    {/* <OverviewMap markers={data.allLocationsJson.edges} /> */}
+    {/* <Countdown date="2020-03-22T11:00:00" /> */}
+    {/* <News newsEntries={data.allNewsJson.edges} /> */}
+    <Announcement />
     <Schedule />
-    <About aboutParagraphs={data.allAboutJson.edges} />
+    {/* <About aboutParagraphs={data.allAboutJson.edges} /> */}
     <FAQ faqEntries={data.allFaqJson.edges} />
   </Layout>
 )
