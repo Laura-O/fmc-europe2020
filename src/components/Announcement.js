@@ -77,8 +77,11 @@ export default class Announcement extends React.Component {
           <div className="large">
             As a small compensation, we currently plan to hold an unofficial FMC
             Europe online competition following the original competition
-            schedule. We will announce more information about this on this
-            website over the course of the next week.
+            schedule. Please find more information about it{' '}
+            <a href="https://www.reddit.com/r/FMCEuropeOnline2020/">
+              on Reddit
+            </a>
+            .
           </div>
         </div>
       </AnnouncementSection>
