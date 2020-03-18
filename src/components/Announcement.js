@@ -74,6 +74,7 @@ export default class Announcement extends React.Component {
             are sorry for any inconvenience caused by this.
           </div>
 
+          <h2>Online competition</h2>
           <div className="large">
             As a small compensation, we currently plan to hold an unofficial FMC
             Europe online competition following the original competition
